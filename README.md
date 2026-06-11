@@ -53,8 +53,6 @@ Arch AI is an agentic planning application built for software teams. A user subm
 
 - **[shadcn/ui](https://ui.shadcn.com/)** is a collection of beautifully designed, accessible, and re-usable UI components that you can copy and paste directly into your projects. Built on top of Radix UI and Tailwind CSS, it grants you full control over your component code, avoiding the bloat of traditional component libraries.
 
-- **[CodeRabbit](https://jsm.dev/arch-coderabbit)** is an AI-powered code review assistant that automates pull request analysis. It provides line-by-line feedback, suggests code improvements, summarizes changes, and helps maintain high code quality by integrating seamlessly into your git-based development workflow.
-
 ## <a name="features">🔋 Features</a>
 
 👉 **AI Architecture Agent**: Submit a plain-English prompt; Gemini draws nodes and edges onto the live canvas in real-time via Trigger.dev background tasks and the Liveblocks Node.js SDK.
